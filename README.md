@@ -14,9 +14,6 @@ El objetivo es desarrollar un sistema que permita:
 
 Este análisis se basa en la teoría de **cadenas de Markov discretas**, un modelo probabilístico que permite estudiar sistemas que cambian de estado de forma secuencial y aleatoria. La evolución depende únicamente del estado actual, lo que se conoce como la **propiedad de Markov**.
 
-## 📁 Estructura del Proyecto
-
-
 ## 🛠️ Tecnologías Utilizadas
 
 - Python 3.13
@@ -44,6 +41,6 @@ El informe final del análisis es generado automáticamente como un archivo PDF 
 
 ## ✍️ Autor
 
-Este proyecto fue desarrollado por **[Daniel Reséndiz Quiroz]** como parte de un trabajo académico de análisis financiero y matemáticas aplicadas.
+Este proyecto fue desarrollado por **Daniel Reséndiz Quiroz** como parte de un trabajo para certificación de análisis de datos y usando matemáticas aplicadas.
 
 
